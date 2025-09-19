@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "364630175808",
+    "project_id": "ovopay-app",
+    "storage_bucket": "ovopay-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364630175808:android:74ef0e7ec7087b60786fa5",
+        "android_client_info": {
+          "package_name": "com.ovosolution.ovopay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGc_yVDOC4vQ6Ggns5SyKp3TSaAWqy2TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364630175808:android:b29c6a19ace48d2a786fa5",
+        "android_client_info": {
+          "package_name": "com.ovosolution.ovopayagent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGc_yVDOC4vQ6Ggns5SyKp3TSaAWqy2TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364630175808:android:aa2f94c3170bb995786fa5",
+        "android_client_info": {
+          "package_name": "com.ovosolution.ovopaymerchant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGc_yVDOC4vQ6Ggns5SyKp3TSaAWqy2TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
